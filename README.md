@@ -1,2 +1,5 @@
 # Stone-Paper-Scissor-Python
-Create the game for player vs computer mode in terminal using Python as a starting project while learning the language
+
+Created the game for Player vs Computer mode in terminal using Python as a starting project while learning the language.
+
+Just download and run the main.py file to begin the game.
